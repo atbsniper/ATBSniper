@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aitsam Tariq Bajwa and atbsniper on social platforms.</h1>
+
+<h1 align="center">Hi 👋, I'm Aitsam Tariq Bajwa & atbsniper on social platforms.</h1>
 <h3 align="center">CyberSecurity Undergrad.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.coindesk.com/resizer/1MWC02P-UgF-8EvtYL5c8CRUSyg=/1056x1045/filters:quality(80):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNYP26OXSRH3TCU6ISRYQPUW34.gif">
+<img align="right" alt="Coding" width="400" src="https://d2diavcdqru7hy.cloudfront.net/blog-inner-images/JMbLuhuawqgkEZ1E9fqR07ig3I698RtmeoKddvGi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atbsniper&label=Profile%20views&color=0e75b6&style=flat" alt="atbsniper" /> </p>
 
