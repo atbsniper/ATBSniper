@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aitsam Tariq Bajwa & atbsniper on social platforms.</h1>
-<h3 align="center">CyberSecurity Undergrad.</h3>
+<h1 align="center">Hi 👋, I'm Aitsam Tariq Bajwa</h1> <h3 align="center">DevOps • Cloud • CyberSecurity</h3> <img align="right" alt="DevOps" width="380"
 
 <img align="right" alt="Coding" width="400" src="https://d2diavcdqru7hy.cloudfront.net/blog-inner-images/JMbLuhuawqgkEZ1E9fqR07ig3I698RtmeoKddvGi.gif">
 
@@ -10,13 +9,17 @@
 
 <p align="left"> <a href="https://twitter.com/aitasamtbajwa" target="blank"><img src="https://img.shields.io/twitter/follow/aitasamtbajwa?logo=twitter&style=for-the-badge" alt="aitasamtbajwa" /></a> </p>
 
-- 🌱 I’m currently learning **Web3, Etherium, Go**
+🔧 DevOps & Cloud enthusiast focused on Linux, AWS, CI/CD, Docker, and automation
 
-- 💬 Ask me about **Solidity, C++, CyberSecurity tools**
+🛠️ Experience deploying applications using EC2, ECS, RDS, Docker images
 
-- 📫 How to reach me **aitasamtbajwa@gmail.com**
+🐧 Strong foundation in Linux (Ubuntu) and hands-on LPIC experience
 
-- ⚡ Fun fact **I think I am funny**
+🔒 Cybersecurity student with interest in vulnerability analysis & malware research
+
+💬 Ask me about AWS, Docker, CI/CD, Linux, React, Node.js
+
+📫 Reach me at aitasamtbajwa@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
